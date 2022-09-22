@@ -10,3 +10,8 @@ U UPDATE
 Debe permitir poder actualizar los datos de UNA tabla de la base de datos.  Se puede ampliar haciéndolo para todas las tablas y todos los campos.
 D DELETE
 Debe permitir el borrado de UNA de las tablas introduciendo el valor de algún campo.  Se puede ampliar para todas las tablas y todos los campos.
+
+
+FECHA DE ENTREGA: 8/10/2022
+
+
